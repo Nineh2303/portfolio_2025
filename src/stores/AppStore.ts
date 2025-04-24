@@ -13,7 +13,6 @@ export const useAppStore = defineStore('appStore', {
     },
     actions : {
         changeTheme(value:boolean){
-            console.log(value)
             this.isLightTheme = value
         }
     }
