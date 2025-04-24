@@ -1,0 +1,9 @@
+{
+    "Home" :"Home",
+    "Skill" :"Skill",
+    "About" :"About me",
+    "home_header" : "Hi, my name's",
+    "home_header_name" :"Nguyen Duc Chinh",
+    "home_position" :"Fullstack developer",
+    "home_description" : "I have 2 years experience in backend development and 1 year experience in frontend development. Welcome to my Portfolio."
+}
